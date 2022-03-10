@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramata Dia
-- 👀 I’m DevOps Engineer
-- 🌱 I’m currently learning Spring Boot
+- 👀 Junior software Engineer
+- 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate on Gitlab
 - 📫 How to reach me 
 
