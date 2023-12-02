@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boghale Rahma
-- 👀 Junior software Engineer
-- 🌱 I’m currently learning .Net Core
+- 👀 Junior Cloud Devops Engineer
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Gitlab
 - 📫 How to reach me 
 
